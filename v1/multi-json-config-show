@@ -2,7 +2,7 @@
   "code": 0,
   "data": {
     "blurrrVersion": { "forceUpdate": false },
-    "vipProductCloudSpaceConfig": { "svip": "999GB" },
+    "vipProductCloudSpaceConfig": { "svip": "10GB" },
     "config": { "showVipEntrance": false, "showAd": false },
     "experimentConfig": { "enableAllPro": true }
   }
