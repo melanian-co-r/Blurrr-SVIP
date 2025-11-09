@@ -1,1 +1,15 @@
-
+{
+  "code": 0,
+  "data": {
+    "isVip": true,
+    "isSvip": true,
+    "vipExpireTime": "2099-12-31 23:59:59",
+    "svipExpireTime": "2099-12-31 23:59:59",
+    "vipLevel": 999,
+    "pro": true,
+    "canUseAllMaterial": true,
+    "canExport4K": true,
+    "canRemoveWatermark": true,
+    "cloudSpace": "999GB"
+  }
+}
